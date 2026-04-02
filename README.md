@@ -76,17 +76,29 @@ Automated ESG report generation
 System Architecture
 
 Data Sources
+
 ↓
+
 Data Ingestion Pipeline
+
 ↓
+
 Data Processing & ESG Metric Extraction
+
 ↓
+
 Machine Learning Models
+
 ↓
+
 Analytics Engine
+
 ↓
+
 API Layer
+
 ↓
+
 Dashboard & Reporting Interface
 
 Tech Stack
